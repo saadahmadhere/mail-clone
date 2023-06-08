@@ -1,5 +1,11 @@
+import Main from './modules/Main';
+
 function App() {
-	return <div>hi</div>;
+	return (
+		<div class='main-page'>
+			<Main />
+		</div>
+	);
 }
 
 export default App;

@@ -1,0 +1,11 @@
+.main-container {
+	background-color: red;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+}
+
+.main {
+	width: 80%;
+	background-color: blue;
+}
